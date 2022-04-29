@@ -2,8 +2,8 @@
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
-heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
+heroHeading: 'About me'
+heroSubHeading: "I was born in the countryside of Western China in the 1992s."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 
